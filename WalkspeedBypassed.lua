@@ -5,7 +5,7 @@ local oldNewIdx;
 local OldNC;
 
 getgenv().Settings = {
-  Speed = 10000;
+  Speed = 1000;
   DisableChangedConns = true
 }
 
